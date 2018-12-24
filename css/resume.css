@@ -222,3 +222,21 @@ a:hover, a:focus, a:active {
 .green:hover {
   background-color: #48E68B;
 }
+
+.fa-ul li {
+  min-height: 35px;
+}
+
+.fa-ul li i.fa-check {
+  color: #2697ec
+}
+
+.skill-table tr td:first-child{
+  text-align: right;
+  padding-right: 20px;
+  width: 215px
+}
+
+.skill-table tr td {
+  padding-bottom: 15px;
+}
