@@ -155,6 +155,10 @@ section.resume-section {
   max-width: 75rem;
 }
 
+/*section.resume-section .resume-item {*/
+  /*border-bottom: #7b7b7b38 solid 1px;*/
+/*}*/
+
 section.resume-section .resume-item .resume-date {
   min-width: none;
 }
