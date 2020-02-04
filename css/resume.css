@@ -83,6 +83,7 @@ p.lead {
   color: #17b87e;
 }
 
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
@@ -185,6 +186,7 @@ section.resume-section .resume-item .resume-date {
 
 .text-primary {
   color: #17b87e !important;
+
 }
 
 a {
@@ -193,6 +195,7 @@ a {
 
 a:hover, a:focus, a:active {
   color: #0a796a;
+
 }
 
 .btn {
